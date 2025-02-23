@@ -1,4 +1,4 @@
-package net.organization.banking.service.Impl;
+package net.organization.banking.service.impl;
 
 import net.organization.banking.dto.AccountDto;
 import net.organization.banking.exception.AccountException;
